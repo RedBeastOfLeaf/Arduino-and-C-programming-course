@@ -1,0 +1,31 @@
+1. What type of connector does an Arduino UNO not contain?
+
+Ans: HDMI connector
+
+2. How many microcontrollers are available for user programming on the Arduino UNO?
+
+Ans: 1
+
+3. The Arduino UNO contains a user-controllable LED connected to which pin?
+
+Ans: Digital pin 13
+
+4. True or False: Analog pin A0 can be used as an analog output.¶
+
+Ans: False
+
+5. Through what interface is the bootloader typically reprogrammed?
+
+Ans: ICSP
+
+6. True or False: The schematic shows the connections between components and their placement on the board.
+
+Ans: False
+
+7. What operation in the IDE triggers code to be written into the memory of the Arduino?
+
+Ans: Upload
+
+8. Which statement about the serial monitor is NOT true?
+
+Ans: The serial monitor is a program that executes on the Arduino.
